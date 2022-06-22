@@ -31,6 +31,11 @@ Evaluate Model Performance
 
 ## Evaluate Model Performance
 
-- [x] Determine which model had the lowest loss. 
+- [x] Determine which model had the lowest loss.
+    - Model using closing prices
 - [x] Determine which model tracks the actual values best over time.
+    - Model using closing prices
 - [x] Determine the appropriate Window Size for the model. 
+
+!["Actual vs BTC predicted values"](./images/actual_vs_predicted_btc_price.png)
+!["Actual vs BTC predicted values using fng sentiment"](./images/actual_vs_predicted_btc_price_fng.png)
