@@ -1,5 +1,7 @@
 # LSTM Stock Predictor
 
+## Table of Contents
+
 <details>
 <ol>
 <li>
