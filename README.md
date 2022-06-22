@@ -15,8 +15,6 @@ Evaluate Model Performance
 </details>
 
 **Files:** [Stock Predictor](./code/lstm_stock_predictor_closing.ipynb)
-<br>
-
 **Files:** [Stock Predictor usinf fng sentiment](./code/lstm_stock_predictor_fng.ipynb)
 
 ## Data Prep for Training and Testing
